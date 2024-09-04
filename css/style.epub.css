@@ -1,0 +1,274 @@
+/* This defines styles and classes used in the book */
+:root { color-scheme: light dark;}
+
+@font-face
+{
+   font-family: Academy Engraved LET;
+   src:url("../fonts/Academy Engraved LET Fonts.ttf");
+}
+
+
+@font-face
+{
+   font-family: DK Au Revoir;
+   src:url("../fonts/Dk Au Revoir.otf");
+}
+
+@font-face
+{
+   font-family: Palatino;
+   src:url("../fonts/Palatino.ttc");
+}
+
+@font-face
+{
+   font-family: Phosphate;
+   src:url("../fonts/Phosphate.ttc");
+}
+
+body 
+{ 
+  margin: 10%; 
+  /* text-align: justify; */
+  /* text-justify: inter-cluster; */
+  /* font-size: 14pt; */
+  /* font-family: 'Times New Roman', Times, serif; */
+  /* font: 1.0em, "Vollkorn", Palatino, Times; */
+  /* hyphens: auto; */
+  /* -webkit-hyphens: auto; */
+  /* word-spacing: -0.05em; */
+}
+
+p
+{
+  text-align-last: left;
+  font-family: Palatino;
+  text-align: justify;
+  text-justify: inter-cluster;
+}
+
+code 
+{
+  font-family: Consolas,"courier new";
+  color: black;
+  font-weight: bold;
+  background-color: #e6e6e6f0;
+  padding: 2px;
+  font-size: 100%;
+}
+
+h1 
+{ 
+  text-align: right;
+  font-family: Phosphate;
+  font-weight: normal;
+}
+
+h2 
+{ 
+  text-align: left; 
+  font-family: Academy Engraved LET;
+}
+h3 { text-align: left; }
+h4 { text-align: left; }
+h5 { text-align: left; }
+h6 { text-align: left; }
+
+
+
+nav#toc ol,
+nav#landmarks ol { padding: 0; margin-left: 1em; }
+nav#toc ol li,
+nav#landmarks ol li { list-style-type: none; margin: 0; padding: 0; }
+a.footnote-ref { vertical-align: super; font-size: 12px;}
+em, em em em, em em em em em { font-style: italic;}
+em em, em em em em { font-style: normal; }
+/*code{ white-space: pre-wrap; }*/
+span.smallcaps{ font-variant: small-caps; }
+span.underline{ text-decoration: underline; }
+q { quotes: "“" "”" "‘" "’"; }
+div.column{ display: inline-block; vertical-align: top; width: 50%; }
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+
+
+pre 
+{
+  padding: 4px;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 8px;
+  overflow: auto;
+  border-radius: 1px;
+  font-family: monospace; font-size: 5px; font-style: normal; font-variant: normal; font-weight: 100; line-height: 5px;
+}
+
+.subhead::first-letter 
+{
+  initial-letter: 2;
+}
+
+blockquote{
+  display:block;
+  background: #fff;
+  padding: 15px 20px 15px 45px;
+  margin: 0 0 20px;
+  position: relative;
+  
+  /*Font*/
+  font-family: Georgia, serif;
+  font-size: 16px;
+  line-height: 1.2;
+  color: #666;
+  text-align: justify;
+  
+  /*Borders - (Optional)*/
+  border-left: 15px solid #c76c0c;
+  border-right: 2px solid #c76c0c;
+  
+  /*Box Shadow - (Optional)*/
+  -moz-box-shadow: 2px 2px 15px #ccc;
+  -webkit-box-shadow: 2px 2px 15px #ccc;
+  box-shadow: 2px 2px 15px #ccc;
+}
+
+blockquote::before{
+  content: "\201C"; /*Unicode for Left Double Quote*/
+  
+  /*Font*/
+  font-family: Georgia, serif;
+  font-size: 60px;
+  font-weight: bold;
+  color: #999;
+  
+  /*Positioning*/
+  position: absolute;
+  left: 10px;
+  top:5px;
+}
+
+blockquote::after{
+  /*Reset to make sure*/
+  content: "";
+}
+
+blockquote a{
+  text-decoration: none;
+  background: #eee;
+  cursor: pointer;
+  padding: 0 3px;
+  color: #c76c0c;
+}
+
+blockquote a:hover{
+ color: #666;
+}
+
+blockquote em{
+  font-style: italic;
+}
+
+p.first-para:first-letter 
+{
+  font-size: 50px;
+  display: block;
+  float: top;
+  line-height: 0.5;
+  margin: 15px 2px 10px 0;
+  color: ForestGreen;
+  font-family: "Academy Engraved LET";
+}
+
+div.letter 
+{
+  border: 1px solid green;
+  text-align: left;
+  font-size: 8pt;
+  font-family: monospace;
+  column-count: 2;
+  column-width: 300px;
+}
+
+pre.bash 
+{
+  background-color: black;
+  color: limegreen;
+  font-size: small ; 
+  font-family: Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New, monospace;
+  display: inline-block;
+}
+
+div.post-it-note 
+{
+  padding-top:16px;
+  padding-bottom:16px;
+  padding-left:8px;
+  padding-right:8px;
+  font-size: small;
+  font-family: "DK Au Revoir";
+  /* font: 1.0em, "DK Au Revoir"; */
+  background-color:rgb(227, 255, 204);
+  box-shadow: 0px 2px 2px 3px #dadada;
+  -webkit-transform:rotate(-4deg);
+  -o-transform:rotate(-4deg);
+  -moz-transform:rotate(-4deg);
+  width:190px;
+  height:190px;
+}
+
+
+#instructions {font: 12px 'American Typewriter', Cambria, Georgia; color: #282625; margin: 0 auto; width: 480x;}
+.paper 
+{
+/*    padding: 37px 55px 27px;*/
+    padding: 10px 10px 10px;
+    position: relative;
+    border: 1px solid #B5B5B5;
+    /* background: white; */
+    /* background: -webkit-linear-gradient(top, #DFE8EC 0%, white 8%) 0 57px; */
+    /* background: -moz-linear-gradient(top, #DFE8EC 0%, white 8%) 0 57px; */
+    /* background: linear-gradient(top, #DFE8EC 0%, white 8%) 0 57px; */
+    -webkit-background-size: 100% 30px;
+    -moz-background-size: 100% 30px;
+    -ms-background-size: 100% 30px;
+    background-size: 100% 30px;
+}
+
+
+.box {
+  width: 200px;
+  height: 150px;
+  text-align: center;
+  font-size: 24px;
+  margin: 0px 5px;
+}
+
+.box:empty::before {
+  content: "Empty Box";
+  font-weight: bold;
+}
+
+figcaption 
+{
+  font-size: 8pt;
+  display: run-in;
+  width: 250px;
+  text-align: center;
+}
+
+.eng  
+{
+  vertical-align: 10%;
+  font-size: 10pt;
+}
+
+
+
+
+
+
+
+
+
+
+
+

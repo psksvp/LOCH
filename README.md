@@ -1,6 +1,6 @@
 # The Legend of the Condor Heroes (射鵰英雄傳)
 
-The Legend of the Condor Heroes (射鵰英雄傳) is a wuxia novel by Chinese writer Jin Yong (Louis Cha). It is the first part of the Condor Trilogy and is followed by The Return of the Condor Heroes and The Heaven Sword and Dragon Saber. It was first serialised between 1 January 1957 and 19 May 1959 in Hong Kong Commercial Daily.
+The Legend of the Condor Heroes (射鵰英雄傳) is a wuxia novel by Chinese writer Jin Yong (Louis Cha). It is the first part of the Condor Trilogy and is followed by The Return of the Condor Heroes and The Heaven Sword and Dragon Saber. It was first serialised between 1 January 1957 and 19 May 1959 in Hong Kong Commercial Daily. (WIKIPEDIA)
 
 
 # Disclaimer

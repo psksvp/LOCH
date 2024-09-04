@@ -4,7 +4,7 @@ Translated by James Worsley
 
 ![LoCH011](images/book2/image-1.jpeg)
 
-On the eighth day, Guo Jing finally managed to reach the peak.
+> On the eighth day, Guo Jing finally managed to reach the peak.
 Stretching out his hand, he hauled Huang Rong up and they jumped up and
 down in jubilation, delirious in their triumph. Then, hand-in-hand, they
 slid down the waterfall once more.
@@ -2402,7 +2402,7 @@ Translated by Patudo, Xfiberloss and Sunnysnow, with notes by Qiu Shuyi
 
 ![LoCH012](images/book2/image-2.jpeg)
 
-Suddenly, Wanyan Kang understood, “She is telling me that we are not
+> Suddenly, Wanyan Kang understood, “She is telling me that we are not
 related by blood at all!” He took her right hand in his and smiled. Mu
 Nianci’s face reddened, she struggled lightly but did not loose his
 grasp, letting him to hold her hand; her head hung even lower.
@@ -4777,7 +4777,7 @@ Translated by SunnySnow
 
  
 
-As the Lake Tai pirates and the Jin officials’ boats came closer, there
+> As the Lake Tai pirates and the Jin officials’ boats came closer, there
 were sounds of yelling, scolding, clashing of weapons and the sounds of
 splashing as bodies dropped into the water. After a while, the Jin
 officials' boats were on fire which lit up the dark sky and cast a fiery
@@ -7247,7 +7247,7 @@ Translated by Frans Soetomo
 
  
 
-The power of the 'Eighteen Dragon-Subduing Palms' was not light.
+> The power of the 'Eighteen Dragon-Subduing Palms' was not light.
 However, Mei Chaofeng always knew in advance where his attack would go
 and was able to evade quickly. Several moves later the strange man
 flicked three pebbles in succession. Mei Chaofeng followed the sound and
@@ -9136,7 +9136,7 @@ Translated by Frans Soetomo with special thanks to Sunnysnow
 
  
 
-He saw in front of her two clay figurines, one resembling a man, the
+> He saw in front of her two clay figurines, one resembling a man, the
 other a woman. These figurines were made in the famous Wuxi city; they
 were round, fat and really cute. In front of the figurines sat tiny clay
 bowls filled with flower petals, leaves, and so on.
@@ -10677,7 +10677,7 @@ Translated by Frans Soetomo
 
 ![LoCH016](images/book2/image-6.jpeg)
 
-The coffin’s lid opened; it turned out it had not been nailed down.
+> The coffin’s lid opened; it turned out it had not been nailed down.
 There was no zombie inside; only a good-looking young girl with a pair
 of big eyes. It was none other than Mu Nianci. Yang Kang was pleasantly
 surprised and quickly he held out his hand to help her out.
@@ -12724,7 +12724,7 @@ Translated by Frans Soetomo
 
 ![LoCH017](images/book2/image-7.jpeg)
 
-The Old Urchin Zhou Botong and the Eastern Heretic Huang Yaoshi had a
+> The Old Urchin Zhou Botong and the Eastern Heretic Huang Yaoshi had a
 marbles competition, with the ‘Nine Yin Manual’ and the Peach Blossom
 Island’s Soft Hedgehog Armor as bets. Huang Yaoshi's newly-wedded wife
 watched the proceedings from the sidelines. Though a marbles competition
@@ -14124,7 +14124,7 @@ Translated by Frans Soetomo
 
  
 
-Huang Yaoshi kept blowing the flute; Guo Jing raised his hand and struck
+> Huang Yaoshi kept blowing the flute; Guo Jing raised his hand and struck
 the bamboo stick between two beats of the music. He struck again, still
 between the two music beats. He had struck his bamboo stick four times,
 all in the wrong places.
@@ -16197,7 +16197,7 @@ Translated by Frans Soetomo
 
 ![LoCH019](images/book2/image-9.jpeg)
 
-Alone in that small underground room and seeing the painting of her
+> Alone in that small underground room and seeing the painting of her
 deceased mother made by her father's own hand; with a roller coaster of
 emotions Huang Rong thought, “I have never seen Mother. I wonder after I
 die, will I meet her? Was she really as beautiful as in the picture?
@@ -18006,7 +18006,7 @@ Translated by Frans Soetomo
 
 ![LoCH020](images/book2/image-10.jpeg)
 
-The burning mast separated two people. Ouyang Feng fetched his snake
+> The burning mast separated two people. Ouyang Feng fetched his snake
 staff and jumped over the flaming mast. Hong Qigong immediately drew the
 bamboo stick from his waist and fended off the attack. They had been
 ferociously fighting barehanded before, so imagine how fierce the battle

@@ -4,7 +4,7 @@ Translated by Frans Soetomo
 
 ![LoCH031](images/book4/image-1.jpeg)
 
-Reverend Yideng narrated all kinds of gratitude and grudges, love and
+> Reverend Yideng narrated all kinds of gratitude and grudges, love and
 hate that he went through with Concubine Liu in the past. Guo Jing and
 Huang Rong sat on the mediation mats in front of him, listening
 intently; while the ‘Fisherman’, ‘Woodcutter’, ‘Farmer’ and ‘Scholar’,
@@ -2142,7 +2142,7 @@ Translated by Frans Soetomo
 
  
 
-The mute boatman took out an axe and with two chops he cut the mooring
+> The mute boatman took out an axe and with two chops he cut the mooring
 rope. Immediately afterwards he raised the anchor. As the boat came
 free, the rushing water washed it out down the river. It made a sudden
 turn as the hull slanted sideways and rushed away as though flying down
@@ -3834,7 +3834,7 @@ Translated by Frans Soetomo
 
 ![LoCH033](images/book4/image-3.jpeg)
 
-Huang Rong cursed, “Do you want to die?” and pushed lightly on Lingzhi
+> Huang Rong cursed, “Do you want to die?” and pushed lightly on Lingzhi
 Shangren’s shoulder. Without answering that monk tumbled to the ground
 face up, his hands and his feet did not move, maintaining the
 cross-legged sitting position; he looked very strange.
@@ -4785,7 +4785,7 @@ Translated by Frans Soetomo
 
 ![LoCH034](images/book4/image-4.jpeg)
 
-Inside the room the table was flipped over and the stool lay on its
+> Inside the room the table was flipped over and the stool lay on its
 side, books, pen and ink were scattered on the floor and half the
 scrolls of painting and poems on the wall were pulled down. Guo Jing
 stood motionless; his eyes looked straight without any expression on his
@@ -6817,7 +6817,7 @@ Translated by Frans Soetomo
 
 ![LoCH035](images/book4/image-5.jpeg)
 
-Two soldiers were forced to carry Ke Zhen’E as they continued their
+> Two soldiers were forced to carry Ke Zhen’E as they continued their
 journey. Huang Rong moved her bamboo stick, constantly whipping them.
 Towards the evening they arrived at the Temple of the Iron Spear. On the
 tall pagoda next to the temple crows had made their nests for
@@ -8668,7 +8668,7 @@ Translated by Frans Soetomo, with special thanks to Mr. Jamin Soetomo
 
 ![LoCH036](images/book4/image-6.jpeg)
 
-Ke Zhen’E moved his spear to attack the incoming hand. Ouyang Feng
+> Ke Zhen’E moved his spear to attack the incoming hand. Ouyang Feng
 raised his arm a little and Ke Zhen’E’s arms were numb and he felt
 pressure on his chest. His spear flew upward, making a hole in the
 ceiling and landing on the temple’s roof.
@@ -10665,7 +10665,7 @@ Translated by Frans Soetomo
 
 ![LoCH037](images/book4/image-7.jpeg)
 
-From all over the camp officers and soldiers alike came to the command
+> From all over the camp officers and soldiers alike came to the command
 tent to watch the marvelous sight. The soldiers joined strength to raise
 the ice column. Under the bright torch light they saw Ouyang Feng
 showing his teeth with an angry look on his face, his hands and feet
@@ -12709,7 +12709,7 @@ Translated by Frans Soetomo
 
 ![LoCH038](images/book4/image-8.jpeg)
 
-Guo Jing grabbed one end of his long robe and let his horse run close to
+> Guo Jing grabbed one end of his long robe and let his horse run close to
 Ouyang Feng. Ouyang Feng held out his hand and grabbed the other end.
 Guo Jing squeezed his legs and gave a loud shout. The little red horse
 furiously charged forward and with a loud splashing sound Ouyang Feng
@@ -14322,7 +14322,7 @@ Translated by Frans Soetomo
 
 ![LoCH039](images/book4/image-9.jpeg)
 
-It was actually Mount Hua’s most dangerous place, called the ‘to give
+> It was actually Mount Hua’s most dangerous place, called the ‘to give
 one’s life cliff’ \[she shen ya\]; whoever jumped from this place would
 certainly meet a cruel death. Huang Rong dashed forward to grab Guo
 Jing’s clothes. Her hand pulled hard a she jumped over his shoulder and
@@ -15950,7 +15950,7 @@ Translated by Frans Soetomo
 
 ![LoCH040](images/book4/image-10.jpeg)
 
-Genghis Khan fetched his iron bow and aimed the arrow toward the female
+> Genghis Khan fetched his iron bow and aimed the arrow toward the female
 eagle. The eagle was able to skew itself and sweep its wing to strike
 the arrow. The male eagle was angry; it let out a long cry and dived to
 strike Genghis Khan’s head.

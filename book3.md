@@ -4,7 +4,7 @@ Translated by Hugh (aka IcyFox)
 
 ![LoCH021](images/book3/image-1.jpeg)
 
-They acted together and used the oak tree as the pivot to pull the
+> They acted together and used the oak tree as the pivot to pull the
 crisscross shaped rope formation. The rope became taut and the rock was
 lifted slowly. The Sun was about to set and the sky was red,
 illuminating the surface of the water. The tide had already gone out and
@@ -1722,7 +1722,7 @@ Translated by William Lee Chong Beng & Frans Soetomo
 
 ![LoCH022](images/book3/image-2.jpeg)
 
-Huang Rong sat steadily on the branch and called out, “Fire away!”
+> Huang Rong sat steadily on the branch and called out, “Fire away!”
 Aiming toward the raft, Guo Jing released his grip and Huang Rong’s body
 flew into the sky. She somersaulted twice in the air and plunged into
 the water.
@@ -4026,7 +4026,7 @@ Translated by Daniel Shultz, Bluebook & Frans Soetomo
 ![LoCH023](images/book3/image-3.jpeg)
 
   
-While they talked they arrived at the Broken Bridge by the West Lake.
+> While they talked they arrived at the Broken Bridge by the West Lake.
 Because it was summer what they saw was lotus under the bridge. Huang
 Rong saw a neat little wine shop by the lakeside. “Let’s drink a cup of
 wine and enjoy the lotus,” she said. “Very good,” Guo Jing agreed.
@@ -6021,7 +6021,7 @@ Translated by Frans Soetomo
 
 ![LoCH024](images/book3/image-4.jpeg)
 
-Sha Gu walked over to Liang Ziweng and said, “You hit my nose, I must
+> Sha Gu walked over to Liang Ziweng and said, “You hit my nose, I must
 hit your nose. You hit me once; I must pay you back three times.” Her
 fist went straight to his nose.
 
@@ -7873,7 +7873,7 @@ Translated by Sunnysnow & Frans Soetomo
 
 ![LoCH025](images/book3/image-5.jpeg)
 
-Huang Yaoshi was silent, thinking about his daughter but hiding his
+> Huang Yaoshi was silent, thinking about his daughter but hiding his
 sadness. Lu Guanyin and Cheng Yaojia stole glances at Huang Yaoshi and
 looked at each other, feeling happy but awkward. Their faces and ears
 were red.
@@ -10361,7 +10361,7 @@ Translated by Owbjhx
 
 ![LoCH026](images/book3/image-6.jpeg)
 
-Huang Yaoshi noticed the sorrowful expression on his daughter’s face;
+> Huang Yaoshi noticed the sorrowful expression on his daughter’s face;
 obviously her emotions were difficult to deny or to release. He knew her
 deep love toward Guo Jing was unchangeable and inseparable. He could not
 help but heave a long sigh. Huang Rong stood still, teardrops falling
@@ -12267,7 +12267,7 @@ Translated by Gimel Gimeno & Frans Soetomo
 
 ![LoCH027](images/book3/image-7.jpeg)
 
-Four young beggars, each with an unsheathed blade were guarding at their
+> Four young beggars, each with an unsheathed blade were guarding at their
 sides. Huang Rong turned her body around and was stunned. As it turned
 out, they were at the top of a small peak. In the moonlight she clearly
 saw lake water all around them. There was a tall platform a dozen
@@ -13906,7 +13906,7 @@ Translated by Hugh (aka IcyFox)
 
 ![LoCH028](images/book3/image-8.jpeg)  
 
-Elder Jian rapidly retreated to avoid being hit, but Huang Rong did not
+> Elder Jian rapidly retreated to avoid being hit, but Huang Rong did not
 lose momentum and kept targeting his accupoints intensely. He started
 running, but the faster he ran, the faster the stick followed him. He
 had to continue jumping about until sweat was dripping down his white
@@ -14887,7 +14887,7 @@ Translated by Frans Soetomo
 
 ![LoCH029](images/book3/image-9.jpeg)
 
-On the long table were seven oil lamps, arranged in the Big Dipper
+> On the long table were seven oil lamps, arranged in the Big Dipper
 formation; on the ground squatted a grey-haired lady, her attention
 focused on the countless bamboo strips scattered on the ground. So deep
 was her concentration that even when she heard people come in, she did
@@ -16822,7 +16822,7 @@ Translated by Frans Soetomo
 
 ![LoCH030](images/book3/image-10.jpeg)
 
-Successively crossing seven gaps, they heard someone reading aloud; it
+> Successively crossing seven gaps, they heard someone reading aloud; it
 seemed like they had arrived at the end of the stone bridge. On the
 other side of the gap a scholar was sitting cross-legged, a book in his
 hand, from which he was reading. Behind the scholar there was another

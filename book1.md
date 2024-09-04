@@ -4,7 +4,7 @@ Translated by Minglei Huang
 
 ![Chapter 1 image](images/book1/image-1.jpeg)
 
-The Taoist suddenly let out a huge laugh as his right palm rose; fast as
+> The Taoist suddenly let out a huge laugh as his right palm rose; fast as
 lightning it struck the middle of the spear. ‘Crack!’ Yang Tiexin felt
 his hand go numb and hastily let go, the spear fell onto the snowy
 ground.
@@ -2001,7 +2001,7 @@ Translated by Minglei Huang
 
  
 
-Han Baoju’s left foot hooked the stirrup, while both of his hands and
+> Han Baoju’s left foot hooked the stirrup, while both of his hands and
 his right foot were holding the copper vat, balancing it neatly on the
 saddle, not leaning the least bit to the side. That yellow horse ran
 fast and steady, as if the stairs were flat ground to it.
@@ -3888,7 +3888,7 @@ Translated by Minglei Huang
 
  
 
-Jochi was furious; lifting his horsewhip he struck again. Guo Jing
+> Jochi was furious; lifting his horsewhip he struck again. Guo Jing
 rolled around on the ground and when he rolled close to Jochi, he
 suddenly jumped up and grabbed his right leg very tightly. Jochi exerted
 his strength to shake him off, but the boy’s grip was surprisingly
@@ -5731,7 +5731,7 @@ Translated by Minglei Huang & Strunf
 
  
 
-Han Baoju let go of his whip and, with a flip, came tumbling down from
+> Han Baoju let go of his whip and, with a flip, came tumbling down from
 the tree. Mei Chaofeng followed after him with the five fingers of her
 claw bearing down upon him. Han Baoju immediately threw his body forward
 to escape the attack. At the sametime, Nan Xiren and Quan Jinfa were
@@ -7692,7 +7692,7 @@ Translated by Foreva and Strunf
 
  
 
-Temujin smiled, aimed his bow and shot an arrow of iron that, like the
+> Temujin smiled, aimed his bow and shot an arrow of iron that, like the
 lightning, slicing through the body of a black eagle. The crowd
 applauded. The Khan then gave his bow to Ogedai. “It’s your turn!”
 
@@ -9492,7 +9492,7 @@ Translated by Strunf, Patudo, Taihan and Dugu Seeking a Win
 
 ![LoCH006](images/book1/image-6.jpeg)
 
-Guo Jing shot three arrows with a rush of wind, killing the three
+> Guo Jing shot three arrows with a rush of wind, killing the three
 closest pursuing soldiers, before interposing himself between the
 pursuers and the pursued. While continuing to shoot arrows he killed one
 more pursuing soldier. In the meantime Jebe had arrived and his arrows
@@ -11370,7 +11370,7 @@ Translated by Strunf, Patudo, Dugu Seeking a Win and SunnySnow
 
 ![LoCH007](images/book1/image-7.jpeg)
 
-Guo Jing snatched the ‘joust to find a spouse’ banner and swept the
+> Guo Jing snatched the ‘joust to find a spouse’ banner and swept the
 banner pole across the length of his arm; the banner flipped over the
 Young Prince’s face. The Young Prince slanted his body aside and raised
 his spear. With a red circling shadow and a flickering spearhead he
@@ -13241,7 +13241,7 @@ Translated by Patudo, Dugu Seeking a Win and SunnySnow
 
 ![LoCH008](images/book1/image-8.jpeg)
 
-The water splashed and a flat boat floated out from among a cluster of
+> The water splashed and a flat boat floated out from among a cluster of
 trees. He saw on the stern of the boat a woman paddling. Her long hair
 was draped on her shoulder and she was dressed in white from head to
 toe, with a golden hair band on top of her head; the white snow
@@ -14451,9 +14451,9 @@ the ‘Four Demons of the Yellow River’.”
 
 Translated by James Worsley and SunnySnow
 
-![LoCH009](images/book1/image-9.jpeg)
+![](images/book1/image-9.jpeg)
 
-Yang Tiexin took down the rusty iron spear hanging on the wall; he
+> Yang Tiexin took down the rusty iron spear hanging on the wall; he
 gently stroked the spear shaft and sighed, “This iron spear is rusty. It
 has not been used for a long while.” Consort Wang spoke softly, “Please
 don’t touch the spear, it is the most precious possession I have.”
@@ -16470,9 +16470,9 @@ Tiexin's hand led him out into the room.
 
 Translated by Rayon
 
-![LoCH010](images/book1/image-10.jpeg)
+![](images/book1/image-10.jpeg)
 
-Following her instructions Guo Jing placed Mei Chaofeng on his
+> Following her instructions Guo Jing placed Mei Chaofeng on his
 shoulders, made an evading move, then hastened forward and they engaged
 the enemy. His lightness kungfu was not weak and Mei Chaofeng’s body was
 not heavy; with her on his shoulder Guo Jing’s agility was not reduced.
