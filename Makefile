@@ -8,10 +8,9 @@ epub: $(SOURCES) outputDirs
 					--metadata title="The Legend of the Condor Heroes (射鵰英雄傳)" \
 					--metadata author="Jin Yong" \
 					--epub-cover-image=cover.jpeg \
-					--epub-embed-font=./fonts/*.* \
 					-o output/LOCH.epub README.md $(SOURCES)
            
-html:  $(SRCS) outputDirs 
+html:  $(SRCS) outputDirs
 	pandoc --embed-resources=true --standalone \
 					-t html5 \
 					--toc \
